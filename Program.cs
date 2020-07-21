@@ -7,6 +7,10 @@ namespace gitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("Change");
+
+            Console.ReadKey();
         }
     }
 }
